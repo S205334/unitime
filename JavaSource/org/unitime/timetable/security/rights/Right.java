@@ -551,6 +551,9 @@ public enum Right {
 	
 	TeachingResponsibilities,
 	TeachingResponsibilityEdit,
+	
+	EventServiceProviders,
+	EventServiceProviderEdit,
 
 	/** Point In Time Data */
 	
